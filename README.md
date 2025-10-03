@@ -18,3 +18,5 @@ Este proyecto contiene dos clases principales:
 
    ```bash
    javac Main.java
+Este proyecto es con fines educativos
+                                                                                                            Maximiliano Moreno.
